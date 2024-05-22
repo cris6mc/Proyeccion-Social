@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763075562228",
+    "project_id": "proyeccion-53a2d",
+    "storage_bucket": "proyeccion-53a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763075562228:android:b5bc7597ce3c2e83dcaca1",
+        "android_client_info": {
+          "package_name": "com.example.san_pedro_de_yauyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKzi1-neo-fG1mvimCzoHhe5Nj644lIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
